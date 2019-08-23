@@ -517,9 +517,3 @@ with tf.Session() as sess:
     saver.restore(sess, input_checkpoint)
     saver.save(sess, config["out_1"] + 'bert.ckpt')
 sess.close()
-
-"""
-********* bert_multi_class_train start *********
-step :1,loss :2.11655855178833, acc :0.3333333333333333
-step :2,loss :2.148242712020874, acc :0.06666666666666667
-"""

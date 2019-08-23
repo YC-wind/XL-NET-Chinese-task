@@ -50,4 +50,6 @@ tensorflow.python.framework.errors_impl.NotFoundError: No registered 'Reciprocal
   stackoverflow 解释说，不支持(还以为可以使用 半精度加速，-_-)
   估计需要自己动手魔改了，转化类型
   
+  [v for v in tf.global_variables() if 'adam_v' not in v.name and 'adam_m' not in v.name]
+  
 ```
