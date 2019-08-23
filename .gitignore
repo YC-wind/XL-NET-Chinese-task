@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 data/
 chinese_xlnet_mid_L-24_H-768_A-12/
+!xlnet.log

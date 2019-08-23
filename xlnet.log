@@ -1,0 +1,1054 @@
+nohup: 忽略输入
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:516: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:541: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:542: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:543: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:544: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:545: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:550: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/sklearn/externals/joblib/__init__.py:15: DeprecationWarning: sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. Please import this functionality directly from joblib, which can be installed with: pip install joblib. If this warning is raised when loading pickled models, you may need to re-serialize those models with scikit-learn 0.21+.
+  warnings.warn(msg, category=DeprecationWarning)
+WARNING: Logging before flag parsing goes to stderr.
+W0823 20:51:13.798547 140401460438848 deprecation_wrapper.py:119] From component_xlnet_multi_class_train.py:305: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+W0823 20:51:13.798939 140401460438848 deprecation_wrapper.py:119] From component_xlnet_multi_class_train.py:403: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+W0823 20:51:13.831857 140401460438848 deprecation_wrapper.py:119] From 啊啊啊啊啊啊啊啊啊啊xlnet/xlnet.py:63: The name tf.gfile.Open is deprecated. Please use tf.io.gfile.GFile instead.
+
+W0823 20:51:13.832785 140401460438848 deprecation_wrapper.py:119] From 啊啊啊啊啊啊啊啊啊啊xlnet/xlnet.py:220: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+W0823 20:51:13.832948 140401460438848 deprecation_wrapper.py:119] From 啊啊啊啊啊啊啊啊啊啊xlnet/xlnet.py:220: The name tf.AUTO_REUSE is deprecated. Please use tf.compat.v1.AUTO_REUSE instead.
+
+W0823 20:51:13.833389 140401460438848 deprecation_wrapper.py:119] From 啊啊啊啊啊啊啊啊啊啊xlnet/modeling.py:451: The name tf.logging.info is deprecated. Please use tf.compat.v1.logging.info instead.
+
+W0823 20:51:13.833734 140401460438848 deprecation_wrapper.py:119] From 啊啊啊啊啊啊啊啊啊啊xlnet/modeling.py:458: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+W0823 20:51:13.936983 140401460438848 deprecation.py:323] From 啊啊啊啊啊啊啊啊啊啊xlnet/modeling.py:533: dropout (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dropout instead.
+W0823 20:51:15.382564 140401460438848 lazy_loader.py:50] 
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+  * https://github.com/tensorflow/io (for I/O related ops)
+If you depend on functionality not listed there, please file an issue.
+
+W0823 20:51:15.412748 140401460438848 deprecation.py:323] From 啊啊啊啊啊啊啊啊啊啊xlnet/modeling.py:67: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+W0823 20:51:31.877502 140401460438848 deprecation_wrapper.py:119] From component_xlnet_multi_class_train.py:227: The name tf.train.get_or_create_global_step is deprecated. Please use tf.compat.v1.train.get_or_create_global_step instead.
+
+W0823 20:51:31.883865 140401460438848 deprecation_wrapper.py:119] From component_xlnet_multi_class_train.py:239: The name tf.train.polynomial_decay is deprecated. Please use tf.compat.v1.train.polynomial_decay instead.
+
+W0823 20:51:31.892278 140401460438848 deprecation.py:323] From 啊啊啊啊啊啊啊啊啊啊.conda/envs/python37/lib/python3.7/site-packages/tensorflow/python/keras/optimizer_v2/learning_rate_schedule.py:409: div (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Deprecated in favor of operator or tf.math.divide.
+W0823 20:51:31.900493 140401460438848 deprecation.py:323] From component_xlnet_multi_class_train.py:254: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+W0823 20:51:31.902015 140401460438848 deprecation_wrapper.py:119] From component_xlnet_multi_class_train.py:257: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+W0823 20:52:00.039115 140401460438848 deprecation_wrapper.py:119] From component_xlnet_multi_class_train.py:167: The name tf.FixedLenFeature is deprecated. Please use tf.io.FixedLenFeature instead.
+
+W0823 20:52:00.062410 140401460438848 deprecation.py:323] From component_xlnet_multi_class_train.py:183: DatasetV1.make_one_shot_iterator (from tensorflow.python.data.ops.dataset_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `for ... in dataset:` to iterate over a dataset. If using `tf.estimator`, return the `Dataset` object directly from your input function. As a last resort, you can use `tf.compat.v1.data.make_one_shot_iterator(dataset)`.
+W0823 20:52:00.099794 140401460438848 deprecation_wrapper.py:119] From component_xlnet_multi_class_train.py:418: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+2019-08-23 20:52:01.317085: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcuda.so.1
+2019-08-23 20:52:01.443143: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 0 with properties: 
+name: GeForce GTX 1080 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.582
+pciBusID: 0000:88:00.0
+2019-08-23 20:52:01.443511: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudart.so.10.0
+2019-08-23 20:52:01.445498: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcublas.so.10.0
+2019-08-23 20:52:01.447387: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcufft.so.10.0
+2019-08-23 20:52:01.447793: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcurand.so.10.0
+2019-08-23 20:52:01.450335: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcusolver.so.10.0
+2019-08-23 20:52:01.452345: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcusparse.so.10.0
+2019-08-23 20:52:01.458130: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudnn.so.7
+2019-08-23 20:52:01.466803: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1763] Adding visible gpu devices: 0
+2019-08-23 20:52:01.467658: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-08-23 20:52:01.506282: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2100100000 Hz
+2019-08-23 20:52:01.510606: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55d51ef64fd0 executing computations on platform Host. Devices:
+2019-08-23 20:52:01.510681: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): <undefined>, <undefined>
+2019-08-23 20:52:01.513127: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1640] Found device 0 with properties: 
+name: GeForce GTX 1080 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.582
+pciBusID: 0000:88:00.0
+2019-08-23 20:52:01.513347: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudart.so.10.0
+2019-08-23 20:52:01.513403: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcublas.so.10.0
+2019-08-23 20:52:01.513452: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcufft.so.10.0
+2019-08-23 20:52:01.513499: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcurand.so.10.0
+2019-08-23 20:52:01.513548: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcusolver.so.10.0
+2019-08-23 20:52:01.513597: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcusparse.so.10.0
+2019-08-23 20:52:01.513648: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudnn.so.7
+2019-08-23 20:52:01.525482: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1763] Adding visible gpu devices: 0
+2019-08-23 20:52:01.525585: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcudart.so.10.0
+2019-08-23 20:52:01.947495: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1181] Device interconnect StreamExecutor with strength 1 edge matrix:
+2019-08-23 20:52:01.947581: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1187]      0 
+2019-08-23 20:52:01.947616: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1200] 0:   N 
+2019-08-23 20:52:01.956461: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1326] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 10470 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080 Ti, pci bus id: 0000:88:00.0, compute capability: 6.1)
+2019-08-23 20:52:01.960356: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55d5201c8640 executing computations on platform CUDA. Devices:
+2019-08-23 20:52:01.960386: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): GeForce GTX 1080 Ti, Compute Capability 6.1
+2019-08-23 20:52:54.596079: I tensorflow/stream_executor/platform/default/dso_loader.cc:42] Successfully opened dynamic library libcublas.so.10.0
+start load the pretrain model
+********* bert_multi_class_train start *********
+step :1,loss :2.0491015911102295, acc :0.2
+step :2,loss :2.0338962078094482, acc :0.2
+step :3,loss :2.2900571823120117, acc :0.13333333333333333
+step :4,loss :2.1185827255249023, acc :0.13333333333333333
+step :5,loss :2.105377674102783, acc :0.26666666666666666
+step :6,loss :2.1527037620544434, acc :0.13333333333333333
+step :7,loss :2.0038771629333496, acc :0.06666666666666667
+step :8,loss :1.9889800548553467, acc :0.2
+step :9,loss :2.0883615016937256, acc :0.2
+step :10,loss :2.161294460296631, acc :0.2
+step :11,loss :1.8983120918273926, acc :0.4666666666666667
+step :12,loss :2.0316388607025146, acc :0.2
+step :13,loss :2.1259682178497314, acc :0.13333333333333333
+step :14,loss :2.1136391162872314, acc :0.2
+step :15,loss :2.1420135498046875, acc :0.2
+step :16,loss :2.051905393600464, acc :0.2
+step :17,loss :2.0431134700775146, acc :0.2
+step :18,loss :2.0280613899230957, acc :0.2
+step :19,loss :2.014284610748291, acc :0.13333333333333333
+step :20,loss :2.13529634475708, acc :0.13333333333333333
+step :21,loss :2.098846912384033, acc :0.13333333333333333
+step :22,loss :1.8943547010421753, acc :0.2
+step :23,loss :1.9247384071350098, acc :0.2
+step :24,loss :2.141345977783203, acc :0.06666666666666667
+step :25,loss :2.064866542816162, acc :0.2
+step :26,loss :2.2357735633850098, acc :0.0
+step :27,loss :2.086379289627075, acc :0.13333333333333333
+step :28,loss :2.038496494293213, acc :0.13333333333333333
+step :29,loss :2.021777391433716, acc :0.3333333333333333
+step :30,loss :2.1500208377838135, acc :0.26666666666666666
+step :31,loss :1.9927375316619873, acc :0.2
+step :32,loss :1.9823741912841797, acc :0.3333333333333333
+step :33,loss :1.9711246490478516, acc :0.3333333333333333
+step :34,loss :1.92295503616333, acc :0.4
+step :35,loss :2.0456202030181885, acc :0.06666666666666667
+step :36,loss :2.0512354373931885, acc :0.13333333333333333
+step :37,loss :2.0915629863739014, acc :0.13333333333333333
+step :38,loss :1.9475032091140747, acc :0.26666666666666666
+step :39,loss :1.8879215717315674, acc :0.3333333333333333
+step :40,loss :1.9879063367843628, acc :0.2
+step :41,loss :2.186802625656128, acc :0.2
+step :42,loss :2.1683080196380615, acc :0.13333333333333333
+step :43,loss :2.343871593475342, acc :0.06666666666666667
+step :44,loss :1.9473203420639038, acc :0.3333333333333333
+step :45,loss :1.9676337242126465, acc :0.2
+step :46,loss :1.7536722421646118, acc :0.4
+step :47,loss :2.1450788974761963, acc :0.2
+step :48,loss :2.190673828125, acc :0.13333333333333333
+step :49,loss :2.098860025405884, acc :0.13333333333333333
+step :50,loss :2.0580999851226807, acc :0.26666666666666666
+step :51,loss :1.9970226287841797, acc :0.3333333333333333
+step :52,loss :1.9894518852233887, acc :0.2
+step :53,loss :2.0462405681610107, acc :0.26666666666666666
+step :54,loss :1.805228352546692, acc :0.3333333333333333
+step :55,loss :2.1419639587402344, acc :0.13333333333333333
+step :56,loss :1.9337643384933472, acc :0.4
+step :57,loss :1.9364548921585083, acc :0.13333333333333333
+step :58,loss :1.9494595527648926, acc :0.26666666666666666
+step :59,loss :1.987450361251831, acc :0.3333333333333333
+step :60,loss :1.9992618560791016, acc :0.2
+step :61,loss :1.987902283668518, acc :0.3333333333333333
+step :62,loss :1.9211771488189697, acc :0.3333333333333333
+step :63,loss :2.063876152038574, acc :0.2
+step :64,loss :2.0952789783477783, acc :0.3333333333333333
+step :65,loss :1.9316028356552124, acc :0.26666666666666666
+step :66,loss :2.151219606399536, acc :0.06666666666666667
+step :67,loss :1.9479598999023438, acc :0.2
+step :68,loss :2.115025043487549, acc :0.26666666666666666
+step :69,loss :1.9064445495605469, acc :0.3333333333333333
+step :70,loss :1.9988685846328735, acc :0.2
+step :71,loss :1.8391532897949219, acc :0.4
+step :72,loss :1.769218921661377, acc :0.4666666666666667
+step :73,loss :1.8305237293243408, acc :0.4
+step :74,loss :1.9195507764816284, acc :0.26666666666666666
+step :75,loss :1.9444396495819092, acc :0.2
+step :76,loss :1.8712294101715088, acc :0.4
+step :77,loss :1.7685364484786987, acc :0.3333333333333333
+step :78,loss :1.8832401037216187, acc :0.4
+step :79,loss :1.9917961359024048, acc :0.2
+step :80,loss :1.581190586090088, acc :0.4666666666666667
+step :81,loss :1.7871582508087158, acc :0.5333333333333333
+step :82,loss :1.654118299484253, acc :0.4
+step :83,loss :1.7309967279434204, acc :0.3333333333333333
+step :84,loss :1.9171150922775269, acc :0.26666666666666666
+step :85,loss :1.7094378471374512, acc :0.3333333333333333
+step :86,loss :1.7735004425048828, acc :0.3333333333333333
+step :87,loss :1.6426775455474854, acc :0.3333333333333333
+step :88,loss :1.5910072326660156, acc :0.4666666666666667
+step :89,loss :2.1015965938568115, acc :0.2
+step :90,loss :2.147740364074707, acc :0.2
+step :91,loss :1.8926266431808472, acc :0.4
+step :92,loss :1.9102905988693237, acc :0.26666666666666666
+step :93,loss :1.6830909252166748, acc :0.4666666666666667
+step :94,loss :2.022611618041992, acc :0.3333333333333333
+step :95,loss :1.8254082202911377, acc :0.3333333333333333
+step :96,loss :1.9154505729675293, acc :0.26666666666666666
+step :97,loss :1.3105074167251587, acc :0.6666666666666666
+step :98,loss :1.8646835088729858, acc :0.2
+step :99,loss :1.6091967821121216, acc :0.3333333333333333
+step :100,loss :1.5012294054031372, acc :0.5333333333333333
+step :101,loss :1.5804600715637207, acc :0.4
+step :102,loss :1.4976001977920532, acc :0.4
+step :103,loss :1.2637519836425781, acc :0.6
+step :104,loss :1.4418705701828003, acc :0.4666666666666667
+step :105,loss :1.7413195371627808, acc :0.4
+step :106,loss :1.5558961629867554, acc :0.4666666666666667
+step :107,loss :1.4273020029067993, acc :0.6
+step :108,loss :1.829347014427185, acc :0.4
+step :109,loss :1.713295578956604, acc :0.4
+step :110,loss :1.5311782360076904, acc :0.6
+step :111,loss :1.475919485092163, acc :0.4666666666666667
+step :112,loss :1.5567009449005127, acc :0.4
+step :113,loss :1.2669123411178589, acc :0.6
+step :114,loss :2.0084586143493652, acc :0.26666666666666666
+step :115,loss :1.5897091627120972, acc :0.4666666666666667
+step :116,loss :1.734168529510498, acc :0.26666666666666666
+step :117,loss :1.6245757341384888, acc :0.4
+step :118,loss :1.6359516382217407, acc :0.5333333333333333
+step :119,loss :1.3322432041168213, acc :0.6
+step :120,loss :1.6166131496429443, acc :0.3333333333333333
+step :121,loss :1.4723236560821533, acc :0.3333333333333333
+step :122,loss :1.9949193000793457, acc :0.2
+step :123,loss :1.7557893991470337, acc :0.4
+step :124,loss :1.053008794784546, acc :0.6666666666666666
+step :125,loss :1.0248973369598389, acc :0.7333333333333333
+step :126,loss :1.4958621263504028, acc :0.6666666666666666
+step :127,loss :1.1835354566574097, acc :0.6
+step :128,loss :1.9536186456680298, acc :0.26666666666666666
+step :129,loss :1.6058547496795654, acc :0.4
+step :130,loss :1.531117558479309, acc :0.3333333333333333
+step :131,loss :1.540987491607666, acc :0.4666666666666667
+step :132,loss :2.009888172149658, acc :0.3333333333333333
+step :133,loss :1.565783977508545, acc :0.4
+step :134,loss :1.498389720916748, acc :0.4
+step :135,loss :1.2971796989440918, acc :0.6666666666666666
+step :136,loss :1.5917019844055176, acc :0.3333333333333333
+step :137,loss :1.4656885862350464, acc :0.5333333333333333
+step :138,loss :1.908429503440857, acc :0.3333333333333333
+step :139,loss :1.7302823066711426, acc :0.4666666666666667
+step :140,loss :1.6921217441558838, acc :0.4
+step :141,loss :1.481468915939331, acc :0.3333333333333333
+step :142,loss :1.384685754776001, acc :0.6
+step :143,loss :1.5126512050628662, acc :0.4666666666666667
+step :144,loss :1.5945066213607788, acc :0.26666666666666666
+step :145,loss :1.2506452798843384, acc :0.6666666666666666
+step :146,loss :0.9053837656974792, acc :0.6666666666666666
+step :147,loss :1.2776644229888916, acc :0.5333333333333333
+step :148,loss :1.023478388786316, acc :0.6
+step :149,loss :1.2692054510116577, acc :0.4666666666666667
+step :150,loss :1.1323848962783813, acc :0.7333333333333333
+step :151,loss :1.413719654083252, acc :0.4666666666666667
+step :152,loss :1.1157793998718262, acc :0.7333333333333333
+step :153,loss :1.4069836139678955, acc :0.6
+step :154,loss :1.1785738468170166, acc :0.6666666666666666
+step :155,loss :1.3402607440948486, acc :0.6
+step :156,loss :0.8950597047805786, acc :0.7333333333333333
+step :157,loss :1.5323930978775024, acc :0.4
+step :158,loss :1.5104423761367798, acc :0.5333333333333333
+step :159,loss :0.892217218875885, acc :0.7333333333333333
+step :160,loss :1.019063115119934, acc :0.7333333333333333
+step :161,loss :1.267492413520813, acc :0.7333333333333333
+step :162,loss :0.7648866176605225, acc :0.7333333333333333
+step :163,loss :1.1917259693145752, acc :0.4666666666666667
+step :164,loss :1.0988178253173828, acc :0.6666666666666666
+step :165,loss :0.9569019675254822, acc :0.8
+step :166,loss :1.0656033754348755, acc :0.6666666666666666
+step :167,loss :0.8724179863929749, acc :0.7333333333333333
+step :168,loss :1.1310343742370605, acc :0.5333333333333333
+step :169,loss :1.421657919883728, acc :0.5333333333333333
+step :170,loss :1.7130029201507568, acc :0.4666666666666667
+step :171,loss :1.3150641918182373, acc :0.5333333333333333
+step :172,loss :0.8420303463935852, acc :0.6
+step :173,loss :1.5558485984802246, acc :0.5333333333333333
+step :174,loss :1.2022204399108887, acc :0.7333333333333333
+step :175,loss :1.4832032918930054, acc :0.4666666666666667
+step :176,loss :1.1325668096542358, acc :0.6
+step :177,loss :1.338125467300415, acc :0.4666666666666667
+step :178,loss :0.4971332848072052, acc :0.9333333333333333
+step :179,loss :0.9922665357589722, acc :0.7333333333333333
+step :180,loss :1.0546364784240723, acc :0.6666666666666666
+step :181,loss :1.0721626281738281, acc :0.6666666666666666
+step :182,loss :1.1799581050872803, acc :0.6666666666666666
+step :183,loss :0.8924489617347717, acc :0.6666666666666666
+step :184,loss :1.1035982370376587, acc :0.5333333333333333
+step :185,loss :0.800324022769928, acc :0.6666666666666666
+step :186,loss :1.047484040260315, acc :0.6666666666666666
+step :187,loss :1.04286789894104, acc :0.6
+step :188,loss :1.1265017986297607, acc :0.6
+step :189,loss :1.5173676013946533, acc :0.4
+step :190,loss :0.9745433926582336, acc :0.7333333333333333
+step :191,loss :0.7362719774246216, acc :0.7333333333333333
+step :192,loss :0.831066370010376, acc :0.6666666666666666
+step :193,loss :1.0056967735290527, acc :0.7333333333333333
+step :194,loss :0.9948338270187378, acc :0.7333333333333333
+step :195,loss :1.2758663892745972, acc :0.5333333333333333
+step :196,loss :1.5142016410827637, acc :0.6
+step :197,loss :1.2473342418670654, acc :0.6
+step :198,loss :0.9444315433502197, acc :0.7333333333333333
+step :199,loss :1.3037693500518799, acc :0.4666666666666667
+step :200,loss :1.1613203287124634, acc :0.6
+step :201,loss :0.9243032932281494, acc :0.6666666666666666
+step :202,loss :0.7747906446456909, acc :0.8666666666666667
+step :203,loss :0.9510449767112732, acc :0.6666666666666666
+step :204,loss :1.1154695749282837, acc :0.6666666666666666
+step :205,loss :0.9386166930198669, acc :0.8
+step :206,loss :0.6500319242477417, acc :0.8666666666666667
+step :207,loss :0.9486290216445923, acc :0.6
+step :208,loss :1.2006721496582031, acc :0.6
+step :209,loss :1.176129698753357, acc :0.6
+step :210,loss :1.2567856311798096, acc :0.4
+step :211,loss :1.1398653984069824, acc :0.5333333333333333
+step :212,loss :0.8156048655509949, acc :0.6666666666666666
+step :213,loss :0.9064211249351501, acc :0.6666666666666666
+step :214,loss :0.5809711217880249, acc :0.6666666666666666
+step :215,loss :0.8297704458236694, acc :0.7333333333333333
+step :216,loss :0.896405816078186, acc :0.6666666666666666
+step :217,loss :0.5592548251152039, acc :0.8666666666666667
+step :218,loss :0.8193705081939697, acc :0.6
+step :219,loss :0.8675867915153503, acc :0.5333333333333333
+step :220,loss :0.625985324382782, acc :0.8
+step :221,loss :1.0793952941894531, acc :0.7333333333333333
+step :222,loss :0.8120094537734985, acc :0.8
+step :223,loss :0.7592748403549194, acc :0.8
+step :224,loss :0.5712763071060181, acc :0.8
+step :225,loss :0.9898329973220825, acc :0.6666666666666666
+step :226,loss :0.975851833820343, acc :0.6
+step :227,loss :1.3166409730911255, acc :0.4666666666666667
+step :228,loss :0.6543009877204895, acc :0.8
+step :229,loss :1.283764362335205, acc :0.6
+step :230,loss :1.0785452127456665, acc :0.6
+step :231,loss :0.6565083861351013, acc :0.7333333333333333
+step :232,loss :1.9083969593048096, acc :0.26666666666666666
+step :233,loss :0.764812707901001, acc :0.8666666666666667
+step :234,loss :0.6569268107414246, acc :0.7333333333333333
+step :235,loss :1.1216267347335815, acc :0.6
+step :236,loss :0.8741873502731323, acc :0.6666666666666666
+step :237,loss :0.9067811369895935, acc :0.6666666666666666
+step :238,loss :1.1739284992218018, acc :0.5333333333333333
+step :239,loss :1.017228603363037, acc :0.6
+step :240,loss :0.9373399019241333, acc :0.7333333333333333
+step :241,loss :1.0869163274765015, acc :0.6666666666666666
+step :242,loss :0.8747263550758362, acc :0.7333333333333333
+step :243,loss :0.8429015874862671, acc :0.6666666666666666
+step :244,loss :1.0204371213912964, acc :0.6666666666666666
+step :245,loss :0.7132949829101562, acc :0.6666666666666666
+step :246,loss :1.0049635171890259, acc :0.8
+step :247,loss :0.6130001544952393, acc :0.7333333333333333
+step :248,loss :0.6647197008132935, acc :0.8666666666666667
+step :249,loss :0.6226277947425842, acc :0.8666666666666667
+step :250,loss :0.6045329570770264, acc :0.8
+step :251,loss :0.6349738240242004, acc :0.6666666666666666
+step :252,loss :0.8249227404594421, acc :0.6666666666666666
+step :253,loss :0.44416511058807373, acc :0.9333333333333333
+step :254,loss :1.1125061511993408, acc :0.5333333333333333
+step :255,loss :0.5528830885887146, acc :0.8
+step :256,loss :0.7700588703155518, acc :0.6666666666666666
+step :257,loss :0.7966481447219849, acc :0.8
+step :258,loss :0.4979611337184906, acc :0.8666666666666667
+step :259,loss :1.0141727924346924, acc :0.7333333333333333
+step :260,loss :0.7741555571556091, acc :0.6666666666666666
+step :261,loss :1.0462406873703003, acc :0.6666666666666666
+step :262,loss :0.7440913915634155, acc :0.6666666666666666
+step :263,loss :0.6948750615119934, acc :0.7333333333333333
+step :264,loss :0.8228830695152283, acc :0.7333333333333333
+step :265,loss :1.0440311431884766, acc :0.5333333333333333
+step :266,loss :0.8176702857017517, acc :0.6666666666666666
+step :267,loss :1.0821245908737183, acc :0.5333333333333333
+step :268,loss :0.8191904425621033, acc :0.6666666666666666
+step :269,loss :1.1553384065628052, acc :0.6
+step :270,loss :0.9147022366523743, acc :0.6
+step :271,loss :0.6730247139930725, acc :0.7333333333333333
+step :272,loss :0.348007470369339, acc :0.9333333333333333
+step :273,loss :1.0375093221664429, acc :0.6666666666666666
+step :274,loss :0.44388923048973083, acc :0.8666666666666667
+step :275,loss :1.2657208442687988, acc :0.6
+step :276,loss :0.6404651999473572, acc :0.8
+step :277,loss :0.6764185428619385, acc :0.7333333333333333
+step :278,loss :0.7001581788063049, acc :0.8
+step :279,loss :0.49769583344459534, acc :0.8666666666666667
+step :280,loss :0.8745281100273132, acc :0.8666666666666667
+step :281,loss :0.6161173582077026, acc :0.8
+step :282,loss :0.8037177324295044, acc :0.8
+step :283,loss :0.8561391234397888, acc :0.7333333333333333
+step :284,loss :1.568930983543396, acc :0.4666666666666667
+step :285,loss :0.8239782452583313, acc :0.8
+step :286,loss :0.824710488319397, acc :0.8
+step :287,loss :0.6370248198509216, acc :0.8666666666666667
+step :288,loss :0.7131022810935974, acc :0.8
+step :289,loss :0.6226759552955627, acc :0.8
+step :290,loss :1.3865740299224854, acc :0.6
+step :291,loss :1.0038161277770996, acc :0.6666666666666666
+step :292,loss :0.3924158215522766, acc :0.9333333333333333
+step :293,loss :1.4184989929199219, acc :0.5333333333333333
+step :294,loss :0.46566441655158997, acc :0.8
+step :295,loss :0.4900412857532501, acc :0.8666666666666667
+step :296,loss :0.5601714849472046, acc :0.8
+step :297,loss :1.0184201002120972, acc :0.6
+step :298,loss :0.8400309681892395, acc :0.8
+step :299,loss :0.681643545627594, acc :0.8
+step :300,loss :0.7551590204238892, acc :0.8
+step :301,loss :1.1554064750671387, acc :0.6
+step :302,loss :0.9755328893661499, acc :0.6666666666666666
+step :303,loss :1.0795156955718994, acc :0.6666666666666666
+step :304,loss :0.6261259317398071, acc :0.8
+step :305,loss :0.5659351348876953, acc :0.8666666666666667
+step :306,loss :0.27996692061424255, acc :0.9333333333333333
+step :307,loss :0.5262810587882996, acc :0.8
+step :308,loss :0.6086976528167725, acc :0.8
+step :309,loss :0.9267687201499939, acc :0.6666666666666666
+step :310,loss :1.1128990650177002, acc :0.6666666666666666
+step :311,loss :0.3813105523586273, acc :0.9333333333333333
+step :312,loss :0.7591549158096313, acc :0.7333333333333333
+step :313,loss :0.8973586559295654, acc :0.8
+step :314,loss :0.6914475560188293, acc :0.8
+step :315,loss :0.6566792726516724, acc :0.8
+step :316,loss :0.41468575596809387, acc :0.8666666666666667
+step :317,loss :0.5928550958633423, acc :0.8
+step :318,loss :0.6067869663238525, acc :0.7333333333333333
+step :319,loss :0.8398821949958801, acc :0.7333333333333333
+step :320,loss :0.5141794085502625, acc :0.8
+step :321,loss :0.9413206577301025, acc :0.6666666666666666
+step :322,loss :0.4633360803127289, acc :0.9333333333333333
+step :323,loss :0.7385562658309937, acc :0.7333333333333333
+step :324,loss :1.078969120979309, acc :0.6
+step :325,loss :0.6028468012809753, acc :0.8
+step :326,loss :0.5769879221916199, acc :0.8666666666666667
+step :327,loss :0.6488587260246277, acc :0.7333333333333333
+step :328,loss :0.8788691163063049, acc :0.6666666666666666
+step :329,loss :0.45938077569007874, acc :0.8
+step :330,loss :0.5544006824493408, acc :0.8
+step :331,loss :0.8397391438484192, acc :0.7333333333333333
+step :332,loss :0.46045035123825073, acc :0.8666666666666667
+step :333,loss :0.8865031599998474, acc :0.8
+step :334,loss :0.29643237590789795, acc :0.9333333333333333
+step :335,loss :0.44902166724205017, acc :0.7333333333333333
+step :336,loss :0.8445025086402893, acc :0.6666666666666666
+step :337,loss :0.35510361194610596, acc :0.9333333333333333
+step :338,loss :0.596939206123352, acc :0.8
+step :339,loss :0.4609687030315399, acc :0.8
+step :340,loss :0.4086792767047882, acc :0.8666666666666667
+step :341,loss :0.5485919713973999, acc :0.8666666666666667
+step :342,loss :0.7042725682258606, acc :0.8
+step :343,loss :0.21737273037433624, acc :0.9333333333333333
+step :344,loss :0.6686631441116333, acc :0.8
+step :345,loss :0.5885997414588928, acc :0.7333333333333333
+step :346,loss :0.9622431993484497, acc :0.6
+step :347,loss :0.5252395868301392, acc :0.7333333333333333
+step :348,loss :0.4578879475593567, acc :0.8666666666666667
+step :349,loss :0.6096042394638062, acc :0.7333333333333333
+step :350,loss :0.7733146548271179, acc :0.8
+step :351,loss :0.4031568467617035, acc :0.9333333333333333
+step :352,loss :0.5724807381629944, acc :0.8
+step :353,loss :1.1286053657531738, acc :0.6666666666666666
+step :354,loss :0.413966566324234, acc :0.9333333333333333
+step :355,loss :0.6730307936668396, acc :0.7333333333333333
+step :356,loss :0.3394522964954376, acc :0.9333333333333333
+step :357,loss :0.7613586187362671, acc :0.7333333333333333
+step :358,loss :0.9318262338638306, acc :0.6
+step :359,loss :0.679799497127533, acc :0.8
+step :360,loss :0.6072109341621399, acc :0.8666666666666667
+step :361,loss :0.4232611060142517, acc :0.9333333333333333
+step :362,loss :0.8843086361885071, acc :0.6
+step :363,loss :0.5339097380638123, acc :0.7333333333333333
+step :364,loss :0.9214712977409363, acc :0.7333333333333333
+step :365,loss :1.1995197534561157, acc :0.4
+step :366,loss :0.5626062154769897, acc :0.8
+step :367,loss :0.7265539169311523, acc :0.8
+step :368,loss :0.9100285172462463, acc :0.6666666666666666
+step :369,loss :0.6333751678466797, acc :0.8666666666666667
+step :370,loss :1.2936760187149048, acc :0.6
+step :371,loss :0.516719400882721, acc :0.8
+step :372,loss :0.5825640559196472, acc :0.7333333333333333
+step :373,loss :0.44105464220046997, acc :0.8
+step :374,loss :0.9091379642486572, acc :0.6666666666666666
+step :375,loss :0.9431697726249695, acc :0.7333333333333333
+step :376,loss :0.7274742722511292, acc :0.8
+step :377,loss :0.7022847533226013, acc :0.8
+step :378,loss :0.7344450354576111, acc :0.6
+step :379,loss :0.6405990123748779, acc :0.8666666666666667
+step :380,loss :0.7663717269897461, acc :0.7333333333333333
+step :381,loss :0.5280109643936157, acc :0.7333333333333333
+step :382,loss :0.4207267165184021, acc :0.8
+step :383,loss :0.34247392416000366, acc :0.9333333333333333
+step :384,loss :0.7141596674919128, acc :0.7333333333333333
+step :385,loss :1.1298412084579468, acc :0.6
+step :386,loss :1.2483136653900146, acc :0.6
+step :387,loss :0.5651430487632751, acc :0.7333333333333333
+step :388,loss :0.4166642129421234, acc :0.9333333333333333
+step :389,loss :0.4966556131839752, acc :0.8
+step :390,loss :0.5317080020904541, acc :0.8
+step :391,loss :0.2676076292991638, acc :0.9333333333333333
+step :392,loss :0.9774576425552368, acc :0.8666666666666667
+step :393,loss :0.6589152812957764, acc :0.8
+step :394,loss :0.6378082036972046, acc :0.7333333333333333
+step :395,loss :0.735127866268158, acc :0.7333333333333333
+step :396,loss :0.6216487884521484, acc :0.6666666666666666
+step :397,loss :0.3784375786781311, acc :0.9333333333333333
+step :398,loss :0.5471422076225281, acc :0.8
+step :399,loss :0.8576263785362244, acc :0.8
+step :400,loss :0.35499051213264465, acc :0.9333333333333333
+step :401,loss :0.5931947827339172, acc :0.8666666666666667
+step :402,loss :0.8452069163322449, acc :0.6666666666666666
+step :403,loss :0.8049402832984924, acc :0.7333333333333333
+step :404,loss :0.6429906487464905, acc :0.8
+step :405,loss :0.6006642580032349, acc :0.8666666666666667
+step :406,loss :0.9323680996894836, acc :0.6
+step :407,loss :0.6234943270683289, acc :0.7333333333333333
+step :408,loss :0.7129808664321899, acc :0.7333333333333333
+step :409,loss :0.27758604288101196, acc :0.9333333333333333
+step :410,loss :1.146205186843872, acc :0.6666666666666666
+step :411,loss :0.7028416991233826, acc :0.7333333333333333
+step :412,loss :0.376503050327301, acc :0.8
+step :413,loss :0.6472263932228088, acc :0.8
+step :414,loss :0.6186210513114929, acc :0.8666666666666667
+step :415,loss :0.36222484707832336, acc :0.9333333333333333
+step :416,loss :1.0887540578842163, acc :0.6
+step :417,loss :1.0162814855575562, acc :0.6666666666666666
+step :418,loss :0.426379531621933, acc :0.9333333333333333
+step :419,loss :0.3302760124206543, acc :0.9333333333333333
+step :420,loss :0.13378550112247467, acc :1.0
+step :421,loss :0.6621991395950317, acc :0.7333333333333333
+step :422,loss :0.596840500831604, acc :0.8
+step :423,loss :0.5522910952568054, acc :0.9333333333333333
+step :424,loss :0.5794740915298462, acc :0.6666666666666666
+step :425,loss :0.45547357201576233, acc :0.8
+step :426,loss :0.6890283823013306, acc :0.7333333333333333
+step :427,loss :0.440053254365921, acc :0.9333333333333333
+step :428,loss :0.33417919278144836, acc :0.8666666666666667
+step :429,loss :0.6699503660202026, acc :0.7333333333333333
+step :430,loss :0.14630991220474243, acc :1.0
+step :431,loss :0.6861271262168884, acc :0.8
+step :432,loss :0.6920894980430603, acc :0.7333333333333333
+step :433,loss :0.6479828953742981, acc :0.8
+step :434,loss :0.5038705468177795, acc :0.8
+step :435,loss :0.5300737619400024, acc :0.8666666666666667
+step :436,loss :0.47118282318115234, acc :0.8
+step :437,loss :0.8353898525238037, acc :0.6666666666666666
+step :438,loss :0.4753413498401642, acc :0.8666666666666667
+step :439,loss :0.40649721026420593, acc :0.8666666666666667
+step :440,loss :0.5879813432693481, acc :0.8
+step :441,loss :0.47192955017089844, acc :0.8666666666666667
+step :442,loss :0.6915715336799622, acc :0.7333333333333333
+step :443,loss :0.8590092062950134, acc :0.7333333333333333
+step :444,loss :0.43392708897590637, acc :0.8
+step :445,loss :0.5259139537811279, acc :0.8
+step :446,loss :0.6650679707527161, acc :0.6666666666666666
+step :447,loss :0.8841454982757568, acc :0.7333333333333333
+step :448,loss :0.7545655369758606, acc :0.8
+step :449,loss :0.6355831027030945, acc :0.8666666666666667
+step :450,loss :0.47107622027397156, acc :0.8666666666666667
+step :451,loss :0.4458841383457184, acc :0.8666666666666667
+step :452,loss :0.13726702332496643, acc :1.0
+step :453,loss :0.2060214728116989, acc :1.0
+step :454,loss :0.9462274312973022, acc :0.7333333333333333
+step :455,loss :0.2892098128795624, acc :0.9333333333333333
+step :456,loss :0.5272661447525024, acc :0.8666666666666667
+step :457,loss :0.7251875996589661, acc :0.8666666666666667
+step :458,loss :0.6267538070678711, acc :0.8
+step :459,loss :0.2726815640926361, acc :0.9333333333333333
+step :460,loss :1.0154743194580078, acc :0.8
+step :461,loss :0.33878999948501587, acc :0.9333333333333333
+step :462,loss :0.7039644718170166, acc :0.8
+step :463,loss :0.40575018525123596, acc :0.8666666666666667
+step :464,loss :0.6065759658813477, acc :0.7333333333333333
+step :465,loss :0.45783141255378723, acc :0.8666666666666667
+step :466,loss :0.3211595118045807, acc :0.9333333333333333
+step :467,loss :0.1451619267463684, acc :1.0
+step :468,loss :0.2729688584804535, acc :0.9333333333333333
+step :469,loss :0.8023639917373657, acc :0.7333333333333333
+step :470,loss :0.29586169123649597, acc :0.9333333333333333
+step :471,loss :0.671622633934021, acc :0.6666666666666666
+step :472,loss :0.30831006169319153, acc :0.8666666666666667
+step :473,loss :1.017708420753479, acc :0.7333333333333333
+step :474,loss :0.35357263684272766, acc :0.9333333333333333
+step :475,loss :0.281493216753006, acc :0.8666666666666667
+step :476,loss :1.0221447944641113, acc :0.6666666666666666
+step :477,loss :0.14125147461891174, acc :1.0
+step :478,loss :0.8239360451698303, acc :0.7333333333333333
+step :479,loss :0.5657762885093689, acc :0.8
+step :480,loss :1.1032142639160156, acc :0.5333333333333333
+step :481,loss :0.3228096663951874, acc :0.8666666666666667
+step :482,loss :0.8077129125595093, acc :0.8666666666666667
+step :483,loss :0.4043031632900238, acc :0.8
+step :484,loss :0.7084633708000183, acc :0.6666666666666666
+step :485,loss :0.6118447780609131, acc :0.8666666666666667
+step :486,loss :0.6361098885536194, acc :0.8
+step :487,loss :0.675567626953125, acc :0.8666666666666667
+step :488,loss :0.9554195404052734, acc :0.6666666666666666
+step :489,loss :0.4421903192996979, acc :0.8666666666666667
+step :490,loss :0.4665141701698303, acc :0.8666666666666667
+step :491,loss :0.35481351613998413, acc :0.8666666666666667
+step :492,loss :0.4957519471645355, acc :0.8666666666666667
+step :493,loss :0.2560652196407318, acc :0.8666666666666667
+step :494,loss :0.3884892165660858, acc :0.8666666666666667
+step :495,loss :0.33070099353790283, acc :0.8666666666666667
+step :496,loss :0.5837083458900452, acc :0.7333333333333333
+step :497,loss :1.0140994787216187, acc :0.6666666666666666
+step :498,loss :1.055078148841858, acc :0.6
+step :499,loss :0.10881935805082321, acc :1.0
+step :500,loss :0.7859245538711548, acc :0.8
+loss :0.2671261429786682, acc :0.9333333333333333
+loss :0.4206107556819916, acc :0.8666666666666667
+loss :0.4966597259044647, acc :0.8666666666666667
+loss :0.5973387956619263, acc :0.8
+loss :0.2556651830673218, acc :0.9333333333333333
+loss :0.8606301546096802, acc :0.6666666666666666
+loss :0.8175216317176819, acc :0.8666666666666667
+loss :0.3217370808124542, acc :0.8666666666666667
+loss :0.368135005235672, acc :0.9333333333333333
+loss :0.47594839334487915, acc :0.8
+loss :0.651968240737915, acc :0.8666666666666667
+loss :0.5947349071502686, acc :0.7333333333333333
+loss :0.21848981082439423, acc :0.9333333333333333
+loss :0.21813613176345825, acc :0.9333333333333333
+loss :0.4016158878803253, acc :0.8
+loss :0.4330902397632599, acc :0.8
+loss :0.4498620331287384, acc :0.8
+loss :0.5677700042724609, acc :0.8
+loss :0.6693431735038757, acc :0.8
+loss :0.3531448543071747, acc :0.9333333333333333
+loss :0.4367474913597107, acc :0.8666666666666667
+loss :0.7023082971572876, acc :0.7333333333333333
+loss :0.43454253673553467, acc :0.8
+loss :0.7012898921966553, acc :0.8
+loss :0.446420818567276, acc :0.8666666666666667
+loss :0.5244606137275696, acc :0.7333333333333333
+loss :0.7446459531784058, acc :0.6666666666666666
+loss :0.8289127349853516, acc :0.7333333333333333
+loss :0.9816993474960327, acc :0.7333333333333333
+loss :0.23871631920337677, acc :1.0
+loss :1.2280735969543457, acc :0.5333333333333333
+loss :0.4102267026901245, acc :0.9333333333333333
+loss :0.4331265687942505, acc :0.8
+loss :0.2376411408185959, acc :0.9333333333333333
+loss :0.4459836184978485, acc :0.8666666666666667
+loss :1.1743007898330688, acc :0.5333333333333333
+loss :0.19136278331279755, acc :0.9333333333333333
+loss :0.22163695096969604, acc :0.9333333333333333
+loss :0.1830679476261139, acc :1.0
+loss :0.534102737903595, acc :0.8666666666666667
+loss :0.28230053186416626, acc :0.8666666666666667
+loss :0.879841148853302, acc :0.4666666666666667
+loss :0.47422829270362854, acc :0.7333333333333333
+loss :0.54698246717453, acc :0.8
+loss :0.34882786870002747, acc :0.9333333333333333
+loss :0.24927756190299988, acc :1.0
+loss :0.6221126317977905, acc :0.7333333333333333
+loss :0.4713805317878723, acc :0.8666666666666667
+loss :0.7112411260604858, acc :0.7333333333333333
+loss :0.30501803755760193, acc :0.8666666666666667
+loss :0.6355745196342468, acc :0.8
+loss :0.1926892250776291, acc :0.9333333333333333
+loss :0.5789404511451721, acc :0.8666666666666667
+loss :0.24975086748600006, acc :0.9333333333333333
+loss :0.7900646328926086, acc :0.8
+loss :0.6886870861053467, acc :0.7333333333333333
+loss :0.49341005086898804, acc :0.8666666666666667
+loss :0.6187423467636108, acc :0.7333333333333333
+loss :0.9545357823371887, acc :0.6
+loss :0.7109554409980774, acc :0.8
+loss :0.6845486164093018, acc :0.8
+loss :0.9991136193275452, acc :0.6666666666666666
+loss :0.7466633915901184, acc :0.7333333333333333
+loss :0.16733431816101074, acc :1.0
+loss :0.2172110378742218, acc :0.9333333333333333
+loss :0.5765673518180847, acc :0.8
+loss :0.7867783308029175, acc :0.7333333333333333
+loss :0.43584874272346497, acc :0.8666666666666667
+loss :0.7397075891494751, acc :0.7333333333333333
+loss :0.5662611126899719, acc :0.8666666666666667
+loss :0.47233662009239197, acc :0.8
+loss :0.6520187258720398, acc :0.8
+loss :0.45495742559432983, acc :0.8
+loss :0.6597177982330322, acc :0.7333333333333333
+loss :0.3005973696708679, acc :0.8666666666666667
+loss :0.39093682169914246, acc :0.8666666666666667
+loss :0.4027973711490631, acc :0.8666666666666667
+loss :0.33374467492103577, acc :0.8666666666666667
+loss :0.6782140731811523, acc :0.6666666666666666
+loss :0.6702221035957336, acc :0.7333333333333333
+loss :0.5605409145355225, acc :0.8
+loss :0.3269752562046051, acc :0.9333333333333333
+loss :0.6029608845710754, acc :0.8
+loss :0.48217207193374634, acc :0.8
+loss :0.4659474194049835, acc :0.8
+loss :0.7640015482902527, acc :0.6666666666666666
+loss :0.23389902710914612, acc :0.8666666666666667
+loss :0.49348366260528564, acc :0.8
+loss :0.28538647294044495, acc :1.0
+loss :0.18851566314697266, acc :1.0
+loss :0.40398457646369934, acc :0.7333333333333333
+loss :0.6738091707229614, acc :0.8
+loss :0.577190637588501, acc :0.8666666666666667
+loss :1.2088474035263062, acc :0.7333333333333333
+loss :0.730417788028717, acc :0.8666666666666667
+loss :0.576813280582428, acc :0.7333333333333333
+loss :0.4851723313331604, acc :0.8666666666666667
+loss :0.1596808284521103, acc :1.0
+loss :0.27284425497055054, acc :0.8666666666666667
+loss :0.4785692095756531, acc :0.8666666666666667
+loss :0.7075746059417725, acc :0.8666666666666667
+loss :0.2505337595939636, acc :0.9333333333333333
+loss :0.35387447476387024, acc :0.8
+loss :0.30743467807769775, acc :0.9333333333333333
+loss :0.3818484842777252, acc :0.9333333333333333
+loss :0.23584023118019104, acc :0.9333333333333333
+loss :0.5660218596458435, acc :0.7333333333333333
+loss :0.2649371027946472, acc :0.9333333333333333
+loss :0.2305285781621933, acc :1.0
+loss :0.5714229941368103, acc :0.6666666666666666
+loss :1.121502161026001, acc :0.6
+loss :0.3398689925670624, acc :0.8666666666666667
+loss :0.5343112945556641, acc :0.8
+loss :0.38077297806739807, acc :0.9333333333333333
+loss :0.4250261187553406, acc :0.9333333333333333
+loss :0.7673799991607666, acc :0.8
+loss :0.5053936839103699, acc :0.8
+loss :0.6049891114234924, acc :0.8
+loss :0.36698928475379944, acc :0.8
+loss :0.6436176300048828, acc :0.7333333333333333
+loss :0.14523115754127502, acc :1.0
+loss :0.5096305012702942, acc :0.8666666666666667
+loss :0.275232195854187, acc :0.8666666666666667
+loss :0.4005773663520813, acc :0.8
+loss :0.6895894408226013, acc :0.7333333333333333
+loss :0.22735042870044708, acc :1.0
+loss :0.3386954665184021, acc :0.8666666666666667
+loss :0.49695536494255066, acc :0.8666666666666667
+loss :0.5437695384025574, acc :0.8
+loss :0.5258514881134033, acc :0.8
+loss :0.6597334742546082, acc :0.7333333333333333
+loss :0.22250713407993317, acc :0.9333333333333333
+loss :0.3033708333969116, acc :0.9333333333333333
+loss :0.8625497221946716, acc :0.7333333333333333
+loss :0.21168211102485657, acc :1.0
+loss :0.561569333076477, acc :0.8666666666666667
+loss :0.29827067255973816, acc :0.9333333333333333
+loss :0.6611180901527405, acc :0.8
+loss :0.5426384210586548, acc :0.8
+loss :0.5943813920021057, acc :0.8
+loss :0.24972425401210785, acc :0.9333333333333333
+loss :0.8365374207496643, acc :0.6666666666666666
+loss :0.33111920952796936, acc :0.9333333333333333
+loss :0.902547299861908, acc :0.8
+loss :0.19361065328121185, acc :0.9333333333333333
+loss :0.6708341836929321, acc :0.7333333333333333
+loss :0.6914494633674622, acc :0.6666666666666666
+loss :0.5428623557090759, acc :0.8
+loss :0.37650102376937866, acc :0.9333333333333333
+loss :0.3354071080684662, acc :0.9333333333333333
+loss :0.7041997313499451, acc :0.7333333333333333
+loss :0.8925340175628662, acc :0.8
+loss :0.5472251176834106, acc :0.8666666666666667
+loss :0.4423876106739044, acc :0.9333333333333333
+loss :0.4187723696231842, acc :0.8666666666666667
+loss :0.41218745708465576, acc :0.8
+loss :0.59690922498703, acc :0.7333333333333333
+loss :0.7349568009376526, acc :0.8
+loss :0.3199723958969116, acc :0.8666666666666667
+loss :0.6725864410400391, acc :0.7333333333333333
+loss :0.39240017533302307, acc :0.8666666666666667
+loss :0.9795477390289307, acc :0.7333333333333333
+loss :0.2682188153266907, acc :0.9333333333333333
+loss :0.25893399119377136, acc :0.8666666666666667
+loss :0.4693669080734253, acc :0.8
+loss :0.48055413365364075, acc :0.8666666666666667
+loss :0.5670734643936157, acc :0.8666666666666667
+loss :0.17463566362857819, acc :1.0
+loss :0.6305076479911804, acc :0.7333333333333333
+loss :0.5485889911651611, acc :0.8
+loss :0.7923360466957092, acc :0.6
+loss :0.15092067420482635, acc :1.0
+loss :0.23708575963974, acc :0.9333333333333333
+loss :0.3202356994152069, acc :0.9333333333333333
+loss :0.41836604475975037, acc :0.8
+loss :0.5104075074195862, acc :0.8
+loss :0.2798337936401367, acc :0.8666666666666667
+loss :0.21688777208328247, acc :0.9333333333333333
+loss :0.5488796234130859, acc :0.8
+loss :0.5159246921539307, acc :0.8666666666666667
+loss :0.827137291431427, acc :0.7333333333333333
+loss :0.6301804780960083, acc :0.8
+loss :0.4928383231163025, acc :0.8
+loss :0.34161651134490967, acc :0.8666666666666667
+loss :0.3383224308490753, acc :0.8666666666666667
+loss :0.19259865581989288, acc :1.0
+loss :0.5097997784614563, acc :0.8666666666666667
+loss :0.48529234528541565, acc :0.8666666666666667
+loss :0.5421019792556763, acc :0.6666666666666666
+loss :0.36335721611976624, acc :0.8666666666666667
+loss :0.4727354049682617, acc :0.8
+loss :0.781852662563324, acc :0.8
+loss :0.5439788699150085, acc :0.8
+loss :0.7111169099807739, acc :0.8
+loss :0.5121068954467773, acc :0.7333333333333333
+loss :0.8475018739700317, acc :0.6666666666666666
+loss :0.41850975155830383, acc :0.8666666666666667
+loss :0.3609378933906555, acc :0.8666666666666667
+loss :0.5231812596321106, acc :0.7333333333333333
+loss :0.4207964539527893, acc :0.9333333333333333
+dev result report:
+              precision    recall  f1-score   support
+
+           0       0.97      0.84      0.90       427
+           1       0.89      0.95      0.92       507
+           2       0.71      0.78      0.74       255
+           3       0.95      0.91      0.93       612
+           4       0.95      0.78      0.86       304
+           5       0.57      0.44      0.50       243
+           6       0.61      0.94      0.74       337
+           7       0.87      0.75      0.80       315
+
+    accuracy                           0.83      3000
+   macro avg       0.82      0.80      0.80      3000
+weighted avg       0.84      0.83      0.83      3000
+
+save model:	999999.000000	>100.829710
+step :501,loss :0.16642160713672638, acc :1.0
+step :502,loss :0.31783828139305115, acc :0.9333333333333333
+step :503,loss :0.23966839909553528, acc :0.9333333333333333
+step :504,loss :1.256309986114502, acc :0.6
+step :505,loss :0.14673154056072235, acc :0.9333333333333333
+step :506,loss :0.5769810080528259, acc :0.6666666666666666
+step :507,loss :1.3319199085235596, acc :0.4666666666666667
+step :508,loss :0.12999865412712097, acc :1.0
+step :509,loss :0.5565162301063538, acc :0.8
+step :510,loss :0.6004602909088135, acc :0.8
+step :511,loss :0.7921345829963684, acc :0.6666666666666666
+step :512,loss :0.4462028741836548, acc :0.8
+step :513,loss :0.8352652192115784, acc :0.5333333333333333
+step :514,loss :0.6541208028793335, acc :0.8666666666666667
+step :515,loss :0.7864540815353394, acc :0.7333333333333333
+step :516,loss :0.25941401720046997, acc :0.9333333333333333
+step :517,loss :0.6804742217063904, acc :0.8666666666666667
+step :518,loss :0.37631115317344666, acc :0.8
+step :519,loss :0.4536309540271759, acc :0.9333333333333333
+step :520,loss :0.47456276416778564, acc :0.8
+step :521,loss :0.5119314789772034, acc :0.9333333333333333
+step :522,loss :0.15723423659801483, acc :1.0
+step :523,loss :0.7562887668609619, acc :0.8
+step :524,loss :0.24663826823234558, acc :1.0
+step :525,loss :0.3757196068763733, acc :0.8666666666666667
+step :526,loss :0.3533569872379303, acc :0.8666666666666667
+step :527,loss :0.8320426940917969, acc :0.6666666666666666
+step :528,loss :0.6557648777961731, acc :0.8
+step :529,loss :0.3893814980983734, acc :0.9333333333333333
+step :530,loss :0.8634698390960693, acc :0.8
+step :531,loss :0.8227499723434448, acc :0.7333333333333333
+step :532,loss :0.42871010303497314, acc :0.9333333333333333
+step :533,loss :0.9181877374649048, acc :0.7333333333333333
+step :534,loss :0.4211217164993286, acc :0.8
+step :535,loss :0.4444393813610077, acc :0.8666666666666667
+step :536,loss :0.5112565755844116, acc :0.6666666666666666
+step :537,loss :0.19834227859973907, acc :0.9333333333333333
+step :538,loss :0.3227096498012543, acc :0.8666666666666667
+step :539,loss :0.7470170855522156, acc :0.6666666666666666
+step :540,loss :0.7083650231361389, acc :0.7333333333333333
+step :541,loss :0.4000076949596405, acc :0.8666666666666667
+step :542,loss :0.4108600318431854, acc :0.8666666666666667
+step :543,loss :0.6352770328521729, acc :0.7333333333333333
+step :544,loss :0.3722293972969055, acc :0.8666666666666667
+step :545,loss :0.1280873715877533, acc :1.0
+step :546,loss :0.2806510329246521, acc :0.9333333333333333
+step :547,loss :0.997971773147583, acc :0.7333333333333333
+step :548,loss :0.5996714234352112, acc :0.8
+step :549,loss :0.2517702281475067, acc :0.9333333333333333
+step :550,loss :0.3674730360507965, acc :0.8666666666666667
+step :551,loss :0.18607094883918762, acc :0.9333333333333333
+step :552,loss :0.6027995944023132, acc :0.8
+step :553,loss :0.20126380026340485, acc :0.9333333333333333
+step :554,loss :0.5146775245666504, acc :0.8
+step :555,loss :0.3465036451816559, acc :0.8666666666666667
+step :556,loss :0.3253726065158844, acc :0.8
+step :557,loss :0.7199476957321167, acc :0.7333333333333333
+step :558,loss :0.8469476699829102, acc :0.8
+step :559,loss :0.16518688201904297, acc :1.0
+step :560,loss :0.9976926445960999, acc :0.7333333333333333
+step :561,loss :0.9175674915313721, acc :0.8
+step :562,loss :0.39135220646858215, acc :0.8
+step :563,loss :0.40811118483543396, acc :0.8666666666666667
+step :564,loss :0.35804489254951477, acc :0.8666666666666667
+step :565,loss :0.4455473721027374, acc :0.8666666666666667
+step :566,loss :0.20713895559310913, acc :0.9333333333333333
+step :567,loss :0.5118798017501831, acc :0.8666666666666667
+step :568,loss :0.41032934188842773, acc :0.8
+step :569,loss :0.8344135880470276, acc :0.6
+step :570,loss :0.32288625836372375, acc :0.8666666666666667
+step :571,loss :0.5335036516189575, acc :0.8
+step :572,loss :0.4522852897644043, acc :0.9333333333333333
+step :573,loss :0.5275131464004517, acc :0.8
+step :574,loss :0.23085086047649384, acc :1.0
+step :575,loss :0.3045918643474579, acc :0.8
+step :576,loss :0.7038325667381287, acc :0.8
+step :577,loss :0.35596078634262085, acc :0.8666666666666667
+step :578,loss :0.1095585823059082, acc :1.0
+step :579,loss :0.6781175136566162, acc :0.7333333333333333
+step :580,loss :0.5824868679046631, acc :0.8666666666666667
+step :581,loss :0.17291024327278137, acc :1.0
+step :582,loss :0.6282598376274109, acc :0.7333333333333333
+step :583,loss :0.3399991989135742, acc :0.8666666666666667
+step :584,loss :0.2594709098339081, acc :0.9333333333333333
+step :585,loss :0.39236995577812195, acc :0.8
+step :586,loss :0.4884337782859802, acc :0.8
+step :587,loss :0.5698459148406982, acc :0.8666666666666667
+step :588,loss :0.25928565859794617, acc :1.0
+step :589,loss :0.32498419284820557, acc :0.9333333333333333
+step :590,loss :0.5545344948768616, acc :0.7333333333333333
+step :591,loss :0.4756415784358978, acc :0.8666666666666667
+step :592,loss :0.3744414150714874, acc :0.8666666666666667
+step :593,loss :0.5978449583053589, acc :0.7333333333333333
+step :594,loss :0.15112394094467163, acc :1.0
+step :595,loss :0.2996203303337097, acc :0.9333333333333333
+step :596,loss :0.2354273796081543, acc :1.0
+step :597,loss :0.583292543888092, acc :0.8
+step :598,loss :0.8925408124923706, acc :0.7333333333333333
+step :599,loss :0.8971566557884216, acc :0.7333333333333333
+step :600,loss :0.44494616985321045, acc :0.8666666666666667
+step :601,loss :0.4969295561313629, acc :0.7333333333333333
+step :602,loss :0.7957646250724792, acc :0.7333333333333333
+step :603,loss :1.0437836647033691, acc :0.5333333333333333
+step :604,loss :0.258634477853775, acc :0.9333333333333333
+step :605,loss :0.29664942622184753, acc :0.9333333333333333
+step :606,loss :0.494561105966568, acc :0.8666666666666667
+step :607,loss :0.05263742431998253, acc :1.0
+step :608,loss :0.7725062966346741, acc :0.8
+step :609,loss :0.546618640422821, acc :0.8666666666666667
+step :610,loss :0.35661405324935913, acc :0.8666666666666667
+step :611,loss :0.3846387565135956, acc :0.8
+step :612,loss :0.4846964478492737, acc :0.9333333333333333
+step :613,loss :0.9199306964874268, acc :0.7333333333333333
+step :614,loss :0.2194443643093109, acc :0.8666666666666667
+step :615,loss :0.09287437051534653, acc :1.0
+step :616,loss :0.4179154336452484, acc :0.8
+step :617,loss :0.4760287404060364, acc :0.8666666666666667
+step :618,loss :0.9174460172653198, acc :0.7333333333333333
+step :619,loss :0.9266330003738403, acc :0.6666666666666666
+step :620,loss :0.21035100519657135, acc :1.0
+step :621,loss :0.3713054656982422, acc :0.9333333333333333
+step :622,loss :0.7916175127029419, acc :0.6666666666666666
+step :623,loss :0.47634220123291016, acc :0.8666666666666667
+step :624,loss :0.3791951537132263, acc :0.8
+step :625,loss :0.4662879705429077, acc :0.8
+step :626,loss :0.09497036039829254, acc :1.0
+step :627,loss :0.20107367634773254, acc :0.9333333333333333
+step :628,loss :0.3559686243534088, acc :0.8666666666666667
+step :629,loss :0.8799945116043091, acc :0.7333333333333333
+step :630,loss :0.4953673183917999, acc :0.9333333333333333
+step :631,loss :0.6223980188369751, acc :0.8
+step :632,loss :0.5328999161720276, acc :0.8666666666666667
+step :633,loss :0.31782227754592896, acc :0.9333333333333333
+step :634,loss :0.5625898838043213, acc :0.8666666666666667
+step :635,loss :0.3538188338279724, acc :0.9333333333333333
+step :636,loss :0.31422388553619385, acc :0.8666666666666667
+step :637,loss :0.30202534794807434, acc :0.8
+step :638,loss :0.2039351463317871, acc :0.8666666666666667
+step :639,loss :0.31910356879234314, acc :0.8666666666666667
+step :640,loss :0.1403358429670334, acc :1.0
+step :641,loss :0.6821216940879822, acc :0.8
+step :642,loss :1.1319752931594849, acc :0.6666666666666666
+step :643,loss :0.7000228762626648, acc :0.8
+step :644,loss :0.40223634243011475, acc :0.9333333333333333
+step :645,loss :0.17581751942634583, acc :0.9333333333333333
+step :646,loss :0.40949541330337524, acc :0.8
+step :647,loss :0.5581932663917542, acc :0.8
+step :648,loss :0.1025308147072792, acc :1.0
+step :649,loss :0.2514578700065613, acc :0.9333333333333333
+step :650,loss :0.28086531162261963, acc :0.8666666666666667
+step :651,loss :0.48551177978515625, acc :0.8666666666666667
+step :652,loss :0.17986799776554108, acc :0.9333333333333333
+step :653,loss :0.21280939877033234, acc :0.9333333333333333
+step :654,loss :0.36474907398223877, acc :0.9333333333333333
+step :655,loss :0.626422107219696, acc :0.7333333333333333
+step :656,loss :0.18578018248081207, acc :1.0
+step :657,loss :0.3604971468448639, acc :0.8666666666666667
+step :658,loss :0.3812646269798279, acc :0.9333333333333333
+step :659,loss :0.4807097315788269, acc :0.8666666666666667
+step :660,loss :0.7454348206520081, acc :0.7333333333333333
+step :661,loss :0.09135155379772186, acc :1.0
+step :662,loss :0.22669149935245514, acc :0.9333333333333333
+step :663,loss :0.4276396334171295, acc :0.9333333333333333
+step :664,loss :0.15632353723049164, acc :1.0
+step :665,loss :0.3464750647544861, acc :0.8
+step :666,loss :0.8578845858573914, acc :0.7333333333333333
+step :667,loss :0.8820304274559021, acc :0.7333333333333333
+step :668,loss :0.2968344986438751, acc :0.8666666666666667
+step :669,loss :0.3220261037349701, acc :0.9333333333333333
+step :670,loss :0.5272480249404907, acc :0.7333333333333333
+step :671,loss :0.3366558849811554, acc :0.8
+step :672,loss :0.30134817957878113, acc :0.9333333333333333
+step :673,loss :0.21550139784812927, acc :0.9333333333333333
+step :674,loss :0.07616229355335236, acc :1.0
+step :675,loss :0.46112409234046936, acc :0.8
+step :676,loss :0.15578368306159973, acc :1.0
+step :677,loss :0.4803351163864136, acc :0.7333333333333333
+step :678,loss :0.7284570336341858, acc :0.7333333333333333
+step :679,loss :0.3998171389102936, acc :0.9333333333333333
+step :680,loss :0.9645013213157654, acc :0.8
+step :681,loss :0.43355369567871094, acc :0.8
+step :682,loss :0.25131434202194214, acc :0.8666666666666667
+step :683,loss :0.7039624452590942, acc :0.8
+step :684,loss :0.321326345205307, acc :0.8666666666666667
+step :685,loss :0.6079742312431335, acc :0.8
+step :686,loss :0.2711573839187622, acc :0.8666666666666667
+step :687,loss :0.6290578246116638, acc :0.7333333333333333
+step :688,loss :0.46301794052124023, acc :0.8666666666666667
+step :689,loss :0.2773316502571106, acc :0.9333333333333333
+step :690,loss :0.41578084230422974, acc :0.9333333333333333
+step :691,loss :0.9509680271148682, acc :0.6666666666666666
+step :692,loss :0.6829809546470642, acc :0.7333333333333333
+step :693,loss :0.37916162610054016, acc :0.8666666666666667
+step :694,loss :0.5625478029251099, acc :0.6666666666666666
+step :695,loss :0.7098370790481567, acc :0.7333333333333333
+step :696,loss :0.13033585250377655, acc :1.0
+step :697,loss :0.6776139736175537, acc :0.8
+step :698,loss :0.4712095260620117, acc :0.8666666666666667
+step :699,loss :0.6411457061767578, acc :0.6666666666666666
+step :700,loss :0.3272637128829956, acc :0.9333333333333333
+step :701,loss :0.5173656940460205, acc :0.8666666666666667
+step :702,loss :0.2846294641494751, acc :0.8666666666666667
+step :703,loss :0.2183551788330078, acc :0.9333333333333333
+step :704,loss :0.1857755184173584, acc :0.9333333333333333
+step :705,loss :0.3095813989639282, acc :0.9333333333333333
+step :706,loss :1.4624626636505127, acc :0.5333333333333333
+step :707,loss :0.15474329888820648, acc :0.9333333333333333
+step :708,loss :0.7625741362571716, acc :0.7333333333333333
+step :709,loss :0.3182421624660492, acc :0.9333333333333333
+step :710,loss :0.12622247636318207, acc :1.0
+step :711,loss :0.5300730466842651, acc :0.8
+step :712,loss :0.2705254554748535, acc :0.8666666666666667
+step :713,loss :0.27244308590888977, acc :0.9333333333333333
+step :714,loss :0.1682707667350769, acc :1.0
+step :715,loss :0.12761980295181274, acc :1.0
+step :716,loss :0.33042338490486145, acc :0.8666666666666667
+step :717,loss :0.30197879672050476, acc :0.8666666666666667
+step :718,loss :0.16710014641284943, acc :1.0
+step :719,loss :0.09100735932588577, acc :1.0
+step :720,loss :0.5561103224754333, acc :0.8666666666666667
+step :721,loss :0.25189298391342163, acc :0.9333333333333333
+step :722,loss :0.09170646220445633, acc :1.0
+step :723,loss :0.6090596318244934, acc :0.8
+step :724,loss :0.5760239362716675, acc :0.8
+step :725,loss :0.39417609572410583, acc :0.8666666666666667
